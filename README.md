@@ -3,6 +3,6 @@ This repo contains changed code that made this webpage more accessible.
 ## Description
 This repo contains code that was changed to include semantic elements,
 accessible alt attributes to images, a more descriptive title,
-and added an ID to the header navigation link to make the link work.
+and an added ID to search-engine-optimization to make the navigation link work.
 ## License 
 This project is licensed under MIT license - see the license file for details
