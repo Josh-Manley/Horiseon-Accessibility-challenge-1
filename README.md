@@ -8,3 +8,5 @@ and an added ID to search-engine-optimization to make the navigation link work.
 This project is licensed under MIT license - see the license file for details
 ## Link to site
 https://josh-manley.github.io/Horiseon-Accessibility-challenge-1/#social-media-marketing
+## screenshot
+
